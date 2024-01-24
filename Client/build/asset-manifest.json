@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f38fbe6.css",
+    "main.js": "/static/js/main.a3487474.js",
+    "static/media/block.png": "/static/media/block.6d8ced23b8980e902eb6.png",
+    "static/media/incentives2.jpg": "/static/media/incentives2.eac0f9a357d0dabe01dd.jpg",
+    "static/media/blockChain_2.jpg": "/static/media/blockChain_2.940a9380e5881d8c1010.jpg",
+    "static/media/reducedDemand.jpg": "/static/media/reducedDemand.97f447702f17ff5ca477.jpg",
+    "static/media/energy.jpg": "/static/media/energy.551368dae99b36f046ee.jpg",
+    "static/media/transparence.jpg": "/static/media/transparence.ae76e9ba82fc3aded5eb.jpg",
+    "static/media/Suyash.jpg": "/static/media/Suyash.3bf0f68b11df543d39e4.jpg",
+    "index.html": "/index.html",
+    "main.9f38fbe6.css.map": "/static/css/main.9f38fbe6.css.map",
+    "main.a3487474.js.map": "/static/js/main.a3487474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f38fbe6.css",
+    "static/js/main.a3487474.js"
+  ]
+}

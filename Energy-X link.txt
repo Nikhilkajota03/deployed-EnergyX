@@ -1,0 +1,15 @@
+vercel --
+
+backend url https://energy-app-backend.vercel.app        -- github-repo
+frontend url  https://energy-tradingn.netlify.app        --manually
+
+
+
+aws--
+
+https://energy-trading.netlify.app                     --manually
+3.6.225.138                                            --ec-2 backend
+
+
+
+
